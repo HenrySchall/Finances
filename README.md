@@ -5,6 +5,7 @@
 ### Principais Áreas das Finanças
 
 1) Finanças Pessoais
+
 - Gestão do orçamento e fluxo de caixa
 - Poupança e investimentos (ações, renda fixa, fundos)
 - Planejamento para aposentadoria
@@ -12,6 +13,7 @@
 - Crédito e endividamento
 
 2) Finanças Corporativas
+
 - Gestão de capital de giro
 - Decisões de investimento (CAPEX)
 - Financiamento (emissão de ações, dívidas, empréstimos)
@@ -19,6 +21,7 @@
 - Estrutura de capital e custo de capital
 
 3) Mercados Financeiros
+
 - Bolsa de valores e renda variável
 - Mercado de renda fixa (títulos públicos e privados)
 - Derivativos (futuros, opções, swaps)
@@ -26,11 +29,13 @@
 - Regulação financeira
 
 4) Finanças Públicas
+
 - Política fiscal e impostos
 - Dívida pública e emissão de títulos governamentais
 - Orçamento público e investimentos em infraestrutura
 
 5) Finanças Comportamentais
+
 - Estuda como emoções e vieses afetam decisões financeiras
 - Efeito manada, aversão à perda, excesso de confiança
 - Tomada de decisão irracional nos mercados
