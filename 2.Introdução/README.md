@@ -1,7 +1,7 @@
-# Finances
+# Introduction 
 
-### Taxa de Crescimento 
-> Reflete o quanto estamos multiplicamos nosso capital sobre o valor da data de compra. Para calcularmos ela usaremos os valores dos ativos normalizados, ou seja, dividindo o preço de fechamento de cada dia, pelo preço inicial de compra.
+### Growth rate 
+> Reflects how much we multiply our capital by the value on the purchase date. To calculate it, we will use the normalized asset values, that is, dividing the closing price of each day by the initial purchase price..
  
 ### Taxa de Retorno Simples
 > A taxa de retorno simples é uma métrica financeira utilizada para avaliar a rentabilidade de um investimento ao longo de um período de tempo específico, ela é utilizada quando se quer **comparar ações distintas**.

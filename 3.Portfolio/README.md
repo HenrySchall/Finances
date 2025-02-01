@@ -10,15 +10,6 @@ risco para determinado nível de retorno
 
 ![image](https://github.com/HenrySchall/Finance/assets/96027335/3af52f76-c600-46f1-9489-544b30fbfa77)
 
-#### Value at Risk
-O Value at Risk (VaR) é um modelo amplamente utilizado para avaliar o risco financeiro de uma carteira de investimentos, estimando a perda máxima esperada de um portfólio, para um período de tempo específico, para um nível de confiança específico. Existem três abordagens principais para calcular o VaR:
-
-1) VaR Paramétrico (Delta-Normal) = Assume que os retornos dos ativos seguem uma distribuição normal, sendo assim utliza-se da média e do desvio-padrão dos retornos históricos para calcular o VaR.
-   
-3) VaR Histórico (Backtesting) = Baseia-se nos retornos históricos do portfólio, ou seja, ordena os retornos e encontra o percentil correspondente ao nível de confiança escolhido. Se o nível de confiança for 95%, o VaR será o retorno no 5º percentil dos dados históricos.
-
-6) VaR de Simulação de Monte Carlo = Gera múltiplas simulações de retornos futuros usando processos estocásticos (ex: Modelo de Black-Scholes, GARCH), ou seja, calcula o VaR a partir da distribuição simulada de retornos.
-
 #### CAPM (Capital Asset Pricing Model)
 > É um modelo que determina uma taxa de retorno esperada, para um ativo ou de um portfólio de ativos, considerando um mercado em equilíbrio (perfeito), com o risco não diversificável (de mercado), via coeficiente beta ($\beta1$).
 
@@ -53,3 +44,12 @@ $IS = Rn - Rf / \beta$
 - Rn = Retorno esperado do Ativo n
 - Rf = Retorno esperado do Ativo Livre de Risco)
 - &\beta& =  Beta do ativo n
+
+#### Value at Risk
+O Value at Risk (VaR) é um modelo amplamente utilizado para avaliar o risco financeiro de uma carteira de investimentos, estimando a perda máxima esperada de um portfólio, para um período de tempo específico, para um nível de confiança específico. Existem três abordagens principais para calcular o VaR:
+
+1) VaR Paramétrico (Delta-Normal) = Assume que os retornos dos ativos seguem uma distribuição normal, sendo assim utliza-se da média e do desvio-padrão dos retornos históricos para calcular o VaR.
+   
+3) VaR Histórico (Backtesting) = Baseia-se nos retornos históricos do portfólio, ou seja, ordena os retornos e encontra o percentil correspondente ao nível de confiança escolhido. Se o nível de confiança for 95%, o VaR será o retorno no 5º percentil dos dados históricos.
+
+6) VaR de Simulação de Monte Carlo = Gera múltiplas simulações de retornos futuros usando processos estocásticos (ex: Modelo de Black-Scholes, GARCH), ou seja, calcula o VaR a partir da distribuição simulada de retornos.
