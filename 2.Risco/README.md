@@ -1,5 +1,4 @@
 # Risco
-### Risco 
 > As decisões financeiras são tomadas em um ambiente de incerteza com relação ao futuro. Toda vez que uma situação de incerteza puder ser quantificada por meio de uma distribuição de probabilidades dos resultados possíveis, diz-se que a decisão está sendo tomada sob uma situação de risco. Aideia de risco está associada às probabilidades de determinado resultado ficar abaixo do valor esperado de uma variável.  Sendo assim, o risco é representado pela variabilidade dos valores observados em torno do valor esperado da distribuição, ou seja, da dispersão dos resultados em relação à média.
 
 #### Comportamento em Relação ao Risco
