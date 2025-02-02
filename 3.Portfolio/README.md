@@ -56,18 +56,14 @@ Formulas
 
 ![Captura de tela 2025-02-01 215835](https://github.com/user-attachments/assets/7a30b4e3-77ce-4620-990f-864655331619)
 
-
-Cálculo do preço da opção de compra
-
-Cálculo do preço da opção de venda
-S = Preço da ação
-K = Preço de exericício
-r= Taxa livre de risco anual
-σ= Volatildiade do preço da ação
-T = Tempo em anos até o vencimento
-N = Função distribuição acumulada
-Pcall = Preço da opção de compra
-Pput= Preço da opção de venda
+- S = Preço da ação
+- K = Preço de exericício
+- r= Taxa livre de risco anual
+- σ= Volatildiade do preço da ação
+- T = Tempo em anos até o vencimento
+- N = Função distribuição acumulada
+- Pcall = Preço da opção de compra
+- Pput= Preço da opção de venda
 
 #### Value at Risk
 O Value at Risk (VaR) é um modelo amplamente utilizado para avaliar o risco financeiro de uma carteira de investimentos, estimando a perda máxima esperada de um portfólio, para um período de tempo específico, para um nível de confiança específico. Existem três abordagens principais para calcular o VaR:
