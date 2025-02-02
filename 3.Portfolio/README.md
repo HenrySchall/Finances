@@ -45,6 +45,26 @@ $IS = Rn - Rf / \beta$
 - Rf = Retorno esperado do Ativo Livre de Risco)
 - &\beta& =  Beta do ativo n
 
+#### Black-Scholes
+
+Nesse tutorial mostro como precificar as opções da modalidade europeia através do modelo Black-Scholes-Merlon, ou só Black-Scholes
+O Black-Scholes é o modelo de calculo do valor teórico das opções mais conhecido e o mais utilizado pelo mercado para calculo de opções da modalidade europeia, cujo o exercício só pode ser realizado no vencimento.
+
+O foco aqui é explicar apenas como obter os dados e aplicar o modelo em python, não entrarei em detalhes conceituais sobre modelo. Existe ótimos materiais explicando o modelo que podem facilmente ser encontrado na internet. Para aplicar esse método não é necessário entender o modelo
+
+Formulas
+
+![Captura de tela 2025-02-01 215835](https://github.com/user-attachments/assets/7a30b4e3-77ce-4620-990f-864655331619)
+
+- S = Preço da ação
+- K = Preço de exericício
+- r= Taxa livre de risco anual
+- σ= Volatildiade do preço da ação
+- T = Tempo em anos até o vencimento
+- N = Função distribuição acumulada
+- Pcall = Preço da opção de compra
+- Pput= Preço da opção de venda
+
 #### Value at Risk
 O Value at Risk (VaR) é um modelo amplamente utilizado para avaliar o risco financeiro de uma carteira de investimentos, estimando a perda máxima esperada de um portfólio, para um período de tempo específico, para um nível de confiança específico. Existem três abordagens principais para calcular o VaR:
 

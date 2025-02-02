@@ -1,41 +1,17 @@
 # Finances
 
+![1_a1x_WXashuNCe-0ZQsT-ZA](https://github.com/user-attachments/assets/fe56ccc9-f9cd-442b-8cfc-326db8eb1346)
+
 > Finance is an area of ​​economics that studies the management of money, assets and investments. It involves the analysis, creation and management of financial resources for individuals, businesses and governments, with the aim of maximizing wealth and minimizing risk, helping to allocate resources efficiently, to ensure sustainable economic growth.
 
-### Principais Áreas das Finanças
+### Main Areas of Finance
 
-1) Finanças Pessoais
+1) Personal Finance: This involves the management of individual money, including budget, savings, investments, debts, credit and retirement.
 
-- Gestão do orçamento e fluxo de caixa
-- Poupança e investimentos (ações, renda fixa, fundos)
-- Planejamento para aposentadoria
-- Seguro e gestão de riscos individuais
-- Crédito e endividamento
+2) Corporate Finance: Focuses on the financial management of companies, such as working capital management, investment decisions (CAPEX), financing (issuing shares, debts, loans), company and project evaluation (Valuation), raising funds and cost of capital and maximizing shareholder value.
 
-2) Finanças Corporativas
+3) Financial Markets: Involves the trading of financial assets, such as the stock exchange and variable income, fixed income market (public and private bonds), derivatives (futures, options, swaps) and exchange.
 
-- Gestão de capital de giro
-- Decisões de investimento (CAPEX)
-- Financiamento (emissão de ações, dívidas, empréstimos)
-- Avaliação de empresas e projetos (Valuation)
-- Estrutura de capital e custo de capital
+4) Public Finance: Involves the financial management of public institutions, responsible for fiscal and monetary policy, public debt and issuance of government bonds and public budget for infrastructure investments.
 
-3) Mercados Financeiros
-
-- Bolsa de valores e renda variável
-- Mercado de renda fixa (títulos públicos e privados)
-- Derivativos (futuros, opções, swaps)
-- Câmbio e mercado de moedas
-- Regulação financeira
-
-4) Finanças Públicas
-
-- Política fiscal e impostos
-- Dívida pública e emissão de títulos governamentais
-- Orçamento público e investimentos em infraestrutura
-
-5) Finanças Comportamentais
-
-- Estuda como emoções e vieses afetam decisões financeiras
-- Efeito manada, aversão à perda, excesso de confiança
-- Tomada de decisão irracional nos mercados
+5) Behavioral Finance: Studies how emotions and biases affect financial decisions, herd effect, loss aversion, overconfidence and irrational decision making in the markets.
