@@ -3,13 +3,13 @@
 # pip install polars
 
 import pandas as pd
-import polars as pl
 import requests
+import numpy as np
+import calendar
 import xlrd
 from bizdays import Calendar
 from datetime import datetime
 from bs4 import BeautifulSoup as bs
-import calendar
 
 #########################################
 ## Creating national holidays calendar ##
@@ -39,24 +39,23 @@ tb = s.find('table', id = 'tblDadosAjustes')
 
 lines = [l.find_all('td') for l in tb.findAll('tr')[1:]]
 
-df = pl.DataFrame([[i.text for i in l] for l in lines])
+df = pd.DataFrame([[i.text for i in l] for l in lines])
 
 print(df)
 
-#########################
-## Formatting the data ##
-#########################
-
 df = df[[0, 1, 3]]
-df.columns = ['Ativo', 'Cod-Vencimento', 'ValorAjuste']
+df.columns = ['Ativo', 'Cod_Vencimento', 'ValorAjuste']
 
 df['ValorAjuste'] = df['ValorAjuste'].str.replace('.', '').str.replace(',', '.').astype(float)
 
-# preenche os valores vazios na coluna com o nome da mercadoria
-df['Ativo'] = df['Ativo'].replace('', None)
+df2 = df.iloc[223:263]
 
-# tira os espaços vazios da coluna código de vencimento
-df['CodVcto'] = df['CodVcto'].str.strip()
+print(df2)
 
-# mantem apenas os futuros de DI
-df = df[df['Ativo'].str.startswith('DI1')]
+df2['Ativo'] = np.nan
+df2['Ativo'] = df2['Ativo'].fillna('DI1_DI_de_1_dia')
+
+print(df2)
+
+df2 = df2[df2['Ativo'].str.startswith('DI1')]
+df = df2
