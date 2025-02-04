@@ -1,4 +1,4 @@
-# Introduction 
+## Introduction 
 
 ### Growth rate 
 > Reflects how much we multiply our capital by the value on the purchase date. To calculate it, we will use the normalized asset values, that is, dividing the closing price of each day by the initial purchase price..
@@ -83,7 +83,7 @@ $CV = σ/RS$
 
 ![Captura de tela 2024-09-13 151633](https://github.com/user-attachments/assets/f8157733-2f1c-42e0-aeee-7fb28689b558)
 
-# Risco
+## Risk
 > As decisões financeiras são tomadas em um ambiente de incerteza com relação ao futuro. Toda vez que uma situação de incerteza puder ser quantificada por meio de uma distribuição de probabilidades dos resultados possíveis, diz-se que a decisão está sendo tomada sob uma situação de risco. Aideia de risco está associada às probabilidades de determinado resultado ficar abaixo do valor esperado de uma variável.  Sendo assim, o risco é representado pela variabilidade dos valores observados em torno do valor esperado da distribuição, ou seja, da dispersão dos resultados em relação à média.
 
 #### Comportamento em Relação ao Risco
