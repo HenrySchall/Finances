@@ -87,3 +87,43 @@ df['Vcto'] = df['CodVcto'].apply(cod_to_vcto)
 df['DU'] = df['Vcto'].apply(lambda x: cal.bizdays(dataref, x))
 
 df['Taxa'] = (100000 / df['ValorAjuste']) ** (252 / df['DU']) - 1
+
+print(df)
+
+###################
+## Interpolation ##
+###################
+
+# Cria uma coluna com a taxa do dia vigente e do dia seguinte
+df['r0'] = df['Taxa']
+df['r1'] = df['Taxa'].shift(-1)
+
+# Cria uma coluna com o tempo do dia vigente e do dia seguinte
+df['du0'] = df['DU']
+df['du1'] = df['DU'].shift(-1).fillna(9999)
+
+# gera uma lista com todos os dias úteis entre o primeiro e o último vértice
+list_dus = [i for i in range(df['DU'].min(), df['DU'].max()) if i not in df['DU'].values]
+
+# concatena os dias úteis com o dataframe dos vértices
+df_dus = pd.DataFrame(list_dus, columns = ['DU'])
+df = pd.concat([df, df_dus]).sort_values(by = 'DU').reset_index(drop = True)
+
+# Cria a coluna de anos úteis (a quantidade de dias úteis sobre a quantidade total do ano)
+df['AU'] = df['DU'] / 252
+
+# Encontra a data referente a cada dia
+df['Vcto'] = df['DU'].apply(lambda x: cal.offset(dataref, x))
+
+# preenche as datas e taxas anterior e próxima nas novas linhas que criadas
+df['r0'] = df['r0'].fillna(method = 'ffill')
+df['r1'] = df['r1'].fillna(method = 'ffill')
+df['du0'] = df['du0'].fillna(method = 'ffill')
+df['du1'] = df['du1'].fillna(method = 'ffill')
+
+dw = (1 + df['r0']) * ((1 + df['r1']) / (1 + df['r0'])) **
+dy = ((df['DU'] - df['du0']) / (df['du1'] - df['du0'])) - 1
+
+df['CurvaFF252'] = dw \ dy 
+
+df.set_index("Vcto")["CurvaFF252"].plot(figsize = (20,10))
