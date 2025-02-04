@@ -47,11 +47,9 @@ print(df)
 ## Formatting the data ##
 #########################
 
-# mantem apenas as colunas com o nome da mercadoria, código de vencimento e preço e renomeia
 df = df[[0, 1, 3]]
-df.columns = ['Ativo', 'CodVcto', 'ValorAjuste']
+df.columns = ['Ativo', 'Cod-Vencimento', 'ValorAjuste']
 
-# modifica o valor para formato numérico
 df['ValorAjuste'] = df['ValorAjuste'].str.replace('.', '').str.replace(',', '.').astype(float)
 
 # preenche os valores vazios na coluna com o nome da mercadoria
