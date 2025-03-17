@@ -1,6 +1,6 @@
 # Finances
 
-![userlmn_bcd738fc8eee238df692dccbe04d8a2f](https://github.com/user-attachments/assets/ca6e573a-8f1a-4dde-adf7-b728b22bf422)
+![423393027-ca6e573a-8f1a-4dde-adf7-b728b22bf422](https://github.com/user-attachments/assets/d22fd390-d729-443d-b627-d7c7a35ecf74)
 
 > Finance is an area of ​​economics that studies the management of money, assets and investments. It involves the analysis, creation and management of financial resources for individuals, businesses and governments, with the aim of maximizing wealth and minimizing risk, helping to allocate resources efficiently, to ensure sustainable economic growth.
 
