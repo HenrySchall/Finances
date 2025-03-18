@@ -16,6 +16,6 @@
 
 5) Behavioral Finance: Studies how emotions and biases affect financial decisions, herd effect, loss aversion, overconfidence and irrational decision making in the markets.
 
-### Bibliographical References:
+### Repository Bibliographic References:
 - Corporate Finance, by Stephen A. Ross
 - Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
