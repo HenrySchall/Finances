@@ -31,21 +31,21 @@ https://content.btgpactual.com/research/home/acoes/
 https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
 
 IPO Watchlist
-Jaka Robotics
-Revolut
-Traveloka
-Klarna
-Side
-Voi.
-Shein
-Chime
-Discord
-Stripe
-CoreWeave
-Databricks
-Medline
-Snyk
-PrimeBlock
-Lalamove
-Canva
+- Jaka Robotics
+- Revolut
+- Traveloka
+- Klarna
+- Side
+- Voi.
+- Shein
+- Chime
+- Discord
+- Stripe
+- CoreWeave
+- Databricks
+- Medline
+- Snyk
+- PrimeBlock
+- Lalamove
+- Canva
 
