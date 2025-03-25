@@ -7,6 +7,7 @@ https://www.dataroma.com/m/home.php
 https://whalewisdom.com/
 
 Portfolio Analyse (World)
+
 https://stockanalysis.com/
 
 https://finchat.io/dashboard/
