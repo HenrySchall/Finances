@@ -1,21 +1,47 @@
 # Finances
 
-![IMG](https://github.com/user-attachments/assets/1fe3cdb6-63c0-4e0a-888b-74d408de0e51)
+Portfolio Returns Funds (World)
+https://www.dataroma.com/m/home.php
 
-> Finance is an area of ​​economics that studies the management of money, assets and investments. It involves the analysis, creation and management of financial resources for individuals, businesses and governments, with the aim of maximizing wealth and minimizing risk, helping to allocate resources efficiently, to ensure sustainable economic growth.
+https://whalewisdom.com/
 
-### Main Areas of Finance
+Portfolio Analyse (World)
+https://stockanalysis.com/
 
-1) Personal Finance: This involves the management of individual money, including budget, savings, investments, debts, credit and retirement.
+https://finchat.io/dashboard/
 
-2) Corporate Finance: Focuses on the financial management of companies, such as working capital management, investment decisions (CAPEX), financing (issuing shares, debts, loans), company and project evaluation (Valuation), raising funds and cost of capital and maximizing shareholder value.
+https://finviz.com/
 
-3) Financial Markets: Involves the trading of financial assets, such as the stock exchange and variable income, fixed income market (public and private bonds), derivatives (futures, options, swaps) and exchange.
+Portfolio Analyse (Brasil)
+https://www.oceans14.com.br/
 
-4) Public Finance: Involves the financial management of public institutions, responsible for fiscal and monetary policy, public debt and issuance of government bonds and public budget for infrastructure investments.
+https://fundamentei.com/pt-BR/
 
-5) Behavioral Finance: Studies how emotions and biases affect financial decisions, herd effect, loss aversion, overconfidence and irrational decision making in the markets.
+https://investidor10.com.br/
 
-### Repository Bibliographic References:
-- Corporate Finance, by Stephen A. Ross
-- Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
+Retornos de Mercado (Brasil)
+https://infograficos.valor.globo.com/carteira-valor/
+
+https://content.btgpactual.com/research/home/acoes/
+
+https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
+
+IPO Watchlist
+Jaka Robotics
+Revolut
+Traveloka
+Klarna
+Side
+Voi.
+Shein
+Chime
+Discord
+Stripe
+CoreWeave
+Databricks
+Medline
+Snyk
+PrimeBlock
+Lalamove
+Canva
+
