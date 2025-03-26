@@ -10,6 +10,8 @@ Portfolio Analyse (World)
 
 https://stockanalysis.com/
 
+https://www.quiverquant.com/
+
 https://finchat.io/dashboard/
 
 https://finviz.com/
