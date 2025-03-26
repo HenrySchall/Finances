@@ -1,10 +1,12 @@
 # Finances
 
-Portfolio Returns Funds (World)
+Portfolio Returns Funds/ETFs (World)
 
 https://www.dataroma.com/m/home.php
 
 https://whalewisdom.com/
+
+https://www.trackinsight.com/pt
 
 Portfolio Analyse (World)
 
