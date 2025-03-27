@@ -16,6 +16,10 @@ https://www.quiverquant.com/
 
 https://finchat.io/dashboard/
 
+https://pt.tradingeconomics.com/calendar
+
+https://app.koyfin.com/home
+
 https://finviz.com/
 
 Portfolio Analyse (Brasil)
