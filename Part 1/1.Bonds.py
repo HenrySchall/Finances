@@ -17,6 +17,8 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
 
+https://api-tesour.streamlit.app/
+
 ##################
 ### Introdução ###
 ##################
