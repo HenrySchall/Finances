@@ -11,7 +11,8 @@ def install_packages(pacotes):
 
 # List of packages
 packages_list = ["numpy", "pandas", "matplotlib", "scipy", "seaborn","statsmodels", "plotly", "gurobipy",
-"yfinance", "scikit-learn", "pyomo", "panel", "hvplot", "holoviews", "datashader", "param", "colorcet"]
+"yfinance", "scikit-learn", "pyomo", "panel", "hvplot", "holoviews", "datashader", "param", "colorcet",
+"transformers","einops","accelerate", "bitsandbytes", "torch", "torchvision","torchaudio"]
 
 install_packages(packages_list)
 
@@ -19,23 +20,30 @@ install_packages(packages_list)
 ### Load Packages ###
 #####################
 
-def load_packages(pack):
-    import importlib
-    import sys
-
-    for packages_list, load in pack.items():
-        try:
-            modulo = importlib.import_module(packages_list)
-            sys.modules[load] = modulo
-            globals()[load] = modulo
-        except ImportError:
-            print(f"Erro ao importar o pacote: {packages_list}")
-
-load_packages({"radian":"rd", "pyomo.environ":"pyo", "gurobipy":"gp", "pandas":"pd", "string":"string", "random":"random", "seaborn":"sns", "numpy":"np", "pandas":"pd",
-"matplotlib.pyplot":"plt", "scipy":"stats", "matplotlib":"mpl", "seaborn.objects":"so", "plotly.express":"px", "matplotlib.pyplot":"plt", "math":"math","yfinance":"yf",
-"datetime":"datetime", "panel":"pn", "hvplot":"hvplot", "holoviews":"hv", "datashader":"ds", "colorcet":"cc", "param":"param", "sklearn.preprocessing.StandardScaler":"Scaler",
-"sklearn.preprocessing.LabelEncoder":"LabelEncoder", "sklearn.preprocessing.OneHotEncoder":"OneHotEncoder", "sklearn.naive_bayes.GaussianNB":"GNB", "xlrd": ">xlrd", "bizdays": "bd"
-"sklearn.preprocessing.MinMaxScaler":"MinMaxScaler", "sklearn.preprocessing.MinMaxScaler":"MinMaxScaler", "sklearn.model_selection.train_test_split":"train_test_split"})
+import pyomo.environ as pyo
+import gurobipy as gp
+import pandas as pd 
+import seaborn as sns
+import plotly.express as px
+import numpy as np
+import panel as pn 
+import seaborn.objects as so
+import matplotlib as mpl
+import colorcet as cc
+import matplotlib.pyplot as plt
+import math
+import datetime
+import param
+import sklearn
+import scipy
+import string
+import random
+import torch
+import os
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline, BitsAndBytesConfig
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder, MinMaxScaler
+from sklearn.naive_bayes import GaussianNB as GNB
 
 from datetime import datetime, timedelta
 
