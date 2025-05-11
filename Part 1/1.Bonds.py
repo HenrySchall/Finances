@@ -11,8 +11,8 @@ def install_packages(pacotes):
 
 # List of packages
 packages_list = ["numpy", "pandas", "matplotlib", "scipy", "seaborn","statsmodels", "plotly", "gurobipy",
-"yfinance", "scikit-learn", , "panel", "hvplot", "holoviews", "datashader", "param", "colorcet",
-"transformers","einops","accelerate", "bitsandbytes", "torch", "torchvision","torchaudio"]
+"yfinance", "scikit-learn", "panel", "datashader", "param", "colorcet", "transformers","einops","accelerate", 
+"bitsandbytes"]
 
 install_packages(packages_list)
 
@@ -43,6 +43,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline, BitsAndB
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder, MinMaxScaler
 from sklearn.naive_bayes import GaussianNB as GNB
+
 
 ##################
 ### Introdução ###

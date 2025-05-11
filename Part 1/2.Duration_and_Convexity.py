@@ -11,8 +11,8 @@ def install_packages(pacotes):
 
 # List of packages
 packages_list = ["numpy", "pandas", "matplotlib", "scipy", "seaborn","statsmodels", "plotly", "gurobipy",
-"yfinance", "scikit-learn", "pyomo", "panel", "hvplot", "holoviews", "datashader", "param", "colorcet",
-"transformers","einops","accelerate", "bitsandbytes", "torch", "torchvision","torchaudio"]
+"yfinance", "scikit-learn", "panel", "datashader", "param", "colorcet", "transformers","einops","accelerate", 
+"bitsandbytes"]
 
 install_packages(packages_list)
 
