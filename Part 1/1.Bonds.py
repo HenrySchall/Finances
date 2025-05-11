@@ -11,7 +11,7 @@ def install_packages(pacotes):
 
 # List of packages
 packages_list = ["numpy", "pandas", "matplotlib", "scipy", "seaborn","statsmodels", "plotly", "gurobipy",
-"yfinance", "scikit-learn", "pyomo", "panel", "hvplot", "holoviews", "datashader", "param", "colorcet",
+"yfinance", "scikit-learn", , "panel", "hvplot", "holoviews", "datashader", "param", "colorcet",
 "transformers","einops","accelerate", "bitsandbytes", "torch", "torchvision","torchaudio"]
 
 install_packages(packages_list)
@@ -20,7 +20,6 @@ install_packages(packages_list)
 ### Load Packages ###
 #####################
 
-import pyomo.environ as pyo
 import gurobipy as gp
 import pandas as pd 
 import seaborn as sns
