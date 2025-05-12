@@ -20,3 +20,4 @@
 ### Repository Bibliographic References:
 - Corporate Finance, by Stephen A. Ross
 - Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
+- https://www.ebook.openquants.com/
