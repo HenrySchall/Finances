@@ -1,4 +1,4 @@
-# Finances
+# Quant
 
 ![img3](https://github.com/user-attachments/assets/3320328e-efb4-49c8-bb23-6a1f55002648)
 
