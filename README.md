@@ -190,3 +190,10 @@ https://analisemacro.com.br/curso/previsao-macroeconomica-usando-python-ia/
 
 https://hotmart.com/pt-br/marketplace/produtos/projetos-python-para-o-mercado-financeiro/T95872287T
 https://hotmart.com/pt-br/marketplace/produtos/biblioteca-quant/E98052942B
+
+https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/credito-e-risco
+https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/financas-internacionais-e-politica-macroeconomica-3
+https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/gestao-de-tributos-2
+https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/gestao-do-ciclo-de-credito-da-concessao-recuperacao-2?oferta=116225
+https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
+https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fusoes-e-aquisicoes-e-processos-de-due-dilligence-2?oferta=116863
