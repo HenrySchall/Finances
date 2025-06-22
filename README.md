@@ -110,3 +110,80 @@ Demand Forecasting & Inventory Optimization
 =======
 7.Document Analysis using LLMs
 >>>>>>> Stashed changes
+>>>>>>
+Finanças/Economia 
+
+https://www.udemy.com/course/python-para-investimentos-na-bolsa-de-valores/?campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=Python&priority=Alpha&funnel=Conversion&matchtype=&gad_campaignid=21486848853&couponCode=2021PM25
+
+https://medium.com/data-science/getting-started-predicting-time-series-data-with-facebook-prophet-c74ad3040525
+
+https://varos.com.br/cursos/codigopy/lista-de-espera?utm_campaign=codigopy_lista_de_espera&utm_source=youtube_brenno&utm_medium=descricao&utm_term=brenno_sullivan&utm_content=otimizacao_markowitz
+
+https://varos.com.br/cursos/dashpy?utm_campaign=dashpy_checkout&utm_medium=footer&utm_content=/hub
+
+Investimentos Offshore
+https://fkpartners.com/loja/investimentos-offshore/
+
+Planejamento Sucessório
+https://fkpartners.com/loja/curso-de-formacao-em-planejamento-sucessorio/
+
+Macroeconomia na Prática
+https://hotmart.com/pt-br/marketplace/produtos/macro-fundamentos/S85849804K
+
+Derivativos
+https://fkpartners.com/loja/derivativos-nas-empresas/
+
+Análise de Crédito
+https://fkpartners.com/loja/curso-avancado-de-analise-de-credito/
+
+Valuation 
+https://cursos.anbima.com.br/detalhes-item/61a0e06f271d2829b338c8fb/Coloque%20o%20risco%20a%20seu%20favor
+
+https://fkpartners.com/loja/modelagem-financeira-aplicada/
+
+https://www.coursera.org/learn/advanced-valuation-and-strategy
+
+https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/credito-e-risco
+
+Wealth Management
+https://www.coursera.org/learn/careers-in-financial-planning-and-wealth-management
+
+Portfólio and Risk Management
+https://www.coursera.org/specializations/investment-portolio-management
+
+Título Públicos Americano
+https://www.coursera.org/learn/fixed-income?specialization=financial-instruments-trading-investing
+
+Derivativos
+https://www.coursera.org/learn/derivatives-options-futures?specialization=financial-instruments-trading-investing
+
+https://www.coursera.org/learn/derivatives-options-futures?specialization=financial-instruments-trading-investing
+
+M&A
+https://www.coursera.org/learn/mergers-acquisitions-valuation-pricing
+
+Private Equity 
+https://www.coursera.org/learn/private-equity
+
+Finanças Quantitativas
+https://www.youtube.com/watch?v=YIgU4L-yInM&list=PLr_FMpawrcaHgCfDGIwxBFc0imGk2U3Mb
+
+https://www.youtube.com/watch?v=7GGrt3-rRH8&list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
+
+Análise de Demonstrativos Financeiros usando Python
+https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-python/
+
+Mercado Financeiro e Gestão de Portfólios usando Python
+https://fkpartners.com/loja/alocacao-de-ativos-e-rebalanceamento-de-carteiras-ancord/
+
+https://analisemacro.com.br/curso/mercado-financeiro-e-gestao-de-portfolios-usando-python/
+
+https://medium.com/@fabiomt/como-calcular-o-value-at-risk-e-gerar-o-backtesting-em-python-aa39af5c3381
+
+https://analisemacro.com.br/curso/ia-para-analise-de-dados-usando-python/
+
+IA para Análise de Dados usando Python
+https://analisemacro.com.br/curso/ia-para-analise-de-dados-usando-python/
+
+Previsão Macroeconômica usando Python e IA
+https://analisemacro.com.br/curso/previsao-macroeconomica-usando-python-ia/
