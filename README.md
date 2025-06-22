@@ -187,3 +187,6 @@ https://analisemacro.com.br/curso/ia-para-analise-de-dados-usando-python/
 
 Previsão Macroeconômica usando Python e IA
 https://analisemacro.com.br/curso/previsao-macroeconomica-usando-python-ia/
+
+https://hotmart.com/pt-br/marketplace/produtos/projetos-python-para-o-mercado-financeiro/T95872287T
+https://hotmart.com/pt-br/marketplace/produtos/biblioteca-quant/E98052942B
