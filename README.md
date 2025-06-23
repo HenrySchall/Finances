@@ -202,3 +202,13 @@ https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/gesta
 https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/gestao-do-ciclo-de-credito-da-concessao-recuperacao-2?oferta=116225
 https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
 https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fusoes-e-aquisicoes-e-processos-de-due-dilligence-2?oferta=116863
+
+https://youtube.com/playlist?list=PL3F00F1C2D402D45C
+
+https://youtube.com/playlist?list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
+
+https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
+
+https://youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9
+
+https://youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55
