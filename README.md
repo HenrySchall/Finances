@@ -212,3 +212,7 @@ https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
 https://youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9
 
 https://youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55
+
+https://alpaca.markets/
+https://www.alphavantage.co/
+https://polygon.io/
