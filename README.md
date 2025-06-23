@@ -193,6 +193,11 @@ https://hotmart.com/pt-br/marketplace/produtos/biblioteca-quant/E98052942B
 
 https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/credito-e-risco
 https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/financas-internacionais-e-politica-macroeconomica-3
+
+![cliofinancexx-20250622-0004](https://github.com/user-attachments/assets/3540587a-8677-4744-978d-13a126d2aa80)
+![cliofinancexx-20250622-0003](https://github.com/user-attachments/assets/3f1ac6b1-4956-4849-91f0-4d67da91c582)
+![cliofinancexx-20250622-0002](https://github.com/user-attachments/assets/0617c39f-21b0-48ab-b9ac-bfd6702946d4)
+
 https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/gestao-de-tributos-2
 https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/gestao-do-ciclo-de-credito-da-concessao-recuperacao-2?oferta=116225
 https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
