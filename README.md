@@ -242,3 +242,11 @@ Michigan = Jefferies
 Columbia = Goldman Sachs
 Havard = Goldman Sachs
 UPenn = Goldman Sachs
+
+![fvfv](https://github.com/user-attachments/assets/a9d7a366-4574-452b-a25e-f17a5f9391f0)
+![bfgbfb](https://github.com/user-attachments/assets/73869b0c-5c61-4a32-b5c0-15c7bbab8bc1)
+![ffeefe](https://github.com/user-attachments/assets/462a336e-b25f-4459-8a4c-dbfe77b4ceff)
+![rggrg](https://github.com/user-attachments/assets/26a5d2a5-696a-434a-8378-92a4ef5ad936)
+![WhatsApp Image 2025-06-24 at 16 21 20](https://github.com/user-attachments/assets/431a1e44-99d9-4cd3-b575-8c823af4b033)
+
+
