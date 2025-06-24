@@ -216,3 +216,29 @@ https://youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55
 https://alpaca.markets/
 https://www.alphavantage.co/
 https://polygon.io/
+
+Notre Dame = Bank of America
+University of Virginia = Jefferies
+Duke = Goldman Sachs
+Stanford = Goldman Sachs
+University of Chicago = Morgan Stanley
+USC = J.P Morgan
+GeorgeTown = Bank of America
+Berkeley = goldman sachs
+University of Austin = Moelis & Company
+Yale = Goldman Sachs
+darmouth = Goldman Sachs
+Princeton = Goldman Sachs
+Brown = Goldman Sachs
+Northwestern  = Bank of America
+BC = Citi
+ucla = citi
+emory = citi
+washington = guggenheim partners
+vanderbilt = bank of america
+Cornell = J.P Morgan
+NYU = J.P Morgan
+Michigan = Jefferies
+Columbia = Goldman Sachs
+Havard = Goldman Sachs
+UPenn = Goldman Sachs
