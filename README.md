@@ -244,6 +244,8 @@ Havard = Goldman Sachs
 UPenn = Goldman Sachs
 
 https://www.quiverquant.com/
+https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
+
 
 ![fvfv](https://github.com/user-attachments/assets/a9d7a366-4574-452b-a25e-f17a5f9391f0)
 ![bfgbfb](https://github.com/user-attachments/assets/73869b0c-5c61-4a32-b5c0-15c7bbab8bc1)
