@@ -243,6 +243,8 @@ Columbia = Goldman Sachs
 Havard = Goldman Sachs
 UPenn = Goldman Sachs
 
+https://www.quiverquant.com/
+
 ![fvfv](https://github.com/user-attachments/assets/a9d7a366-4574-452b-a25e-f17a5f9391f0)
 ![bfgbfb](https://github.com/user-attachments/assets/73869b0c-5c61-4a32-b5c0-15c7bbab8bc1)
 ![ffeefe](https://github.com/user-attachments/assets/462a336e-b25f-4459-8a4c-dbfe77b4ceff)
