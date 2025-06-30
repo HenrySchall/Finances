@@ -82,6 +82,13 @@ PrimeBlock
 Lalamove
 Canva
 
+https://www.youtube.com/watch?v=DEWM8wf1D24
+https://www.youtube.com/watch?v=Ets0xGCjQ14
+https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLgWn81pQ2CNKcuUgFosE5YlfJvIZmbVG8
+https://www.youtube.com/watch?v=9MSPeAYBYIY&list=WL&index=8
+https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
+https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
+
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 ![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
