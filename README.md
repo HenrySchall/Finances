@@ -21,6 +21,9 @@ https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
 - Corporate Finance, by Stephen A. Ross
 - Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
 - https://www.ebook.openquants.com/
+https://github.com/HULLZHU/CQF-1
+https://github.com/eightsmile/cqf
+https://gitlab.com/xxpeterxx/CQF/tree/master/Module%201%20Building%20Blocks%20of%20Quant%20Finance
 
 
 Returner of Optimized Value -
