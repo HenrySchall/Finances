@@ -56,7 +56,7 @@
 - https://hotmart.com/pt-br/marketplace/produtos/biblioteca-quant/E98052942B
 - https://youtube.com/playlist?list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
 - https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
-
+- https://www.quiverquant.com/
 
    Modelos de Difusão Estocástica (GBM)
 Modelos com Saltos (Merton Jump Diffusion)
