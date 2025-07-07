@@ -54,7 +54,8 @@
 - https://www.youtube.com/watch?v=7GGrt3-rRH8&list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
 - https://hotmart.com/pt-br/marketplace/produtos/projetos-python-para-o-mercado-financeiro/T95872287T
 - https://hotmart.com/pt-br/marketplace/produtos/biblioteca-quant/E98052942B
-
+- https://youtube.com/playlist?list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
+- https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
 
 
    Modelos de Difusão Estocástica (GBM)
