@@ -20,9 +20,6 @@
 - Corporate Finance, by Stephen A. Ross
 - Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
 
-
-
-
 Investimentos Offshore
 - https://fkpartners.com/loja/investimentos-offshore/
 
@@ -57,55 +54,55 @@ Private Equity
 Análise de Demonstrativos Financeiros
 - https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-python/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://alpaca.markets/
-https://www.alphavantage.co/
-https://polygon.io/
-
 Notre Dame = Bank of America
+
 University of Virginia = Jefferies
+
 Duke = Goldman Sachs
+
 Stanford = Goldman Sachs
+
 University of Chicago = Morgan Stanley
+
 USC = J.P Morgan
+
 GeorgeTown = Bank of America
+
 Berkeley = goldman sachs
+
 University of Austin = Moelis & Company
+
 Yale = Goldman Sachs
+
 darmouth = Goldman Sachs
+
 Princeton = Goldman Sachs
+
 Brown = Goldman Sachs
+
 Northwestern  = Bank of America
+
 BC = Citi
+
 ucla = citi
+
 emory = citi
+
 washington = guggenheim partners
+
 vanderbilt = bank of america
+
 Cornell = J.P Morgan
+
 NYU = J.P Morgan
+
 Michigan = Jefferies
+
 Columbia = Goldman Sachs
+
 Havard = Goldman Sachs
+
 UPenn = Goldman Sachs
-
-
-
-
-
-
-
 
 - https://cbonds.com/
 - https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
@@ -121,61 +118,46 @@ UPenn = Goldman Sachs
 - https://investidor10.com.br/
 - https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
 
-
-
-
-
 IPO Watchlist
-Jaka Robotics
-Revolut
-Traveloka
-Klarna
-Side
-Voi.
-Shein
-Chime
-Discord
-Stripe
-CoreWeave
-Databricks
-Medline
-Snyk
-PrimeBlock
-Lalamove
-Canva
+- Jaka Robotics
+- Revolut
+- Traveloka
+- Klarna
+- Side
+- Voi.
+- Shein
+- Chime
+- Discord
+- Stripe
+- CoreWeave
+- Databricks
+- Medline
+- Snyk
+- PrimeBlock
+- Lalamove
+- Canva
 
-Demand Forecasting & Inventory Optimization
-2.Price Optimization
-3.Price Elasticity of Demand Analysis
-4.User Profiling & Segmentation
-5.Cohort Analysis
-6.Store Sales & Profit Analysis
-7.Supply Chain Analysis
+https://alpaca.markets/
 
-1. Electric Vehicles Market Size Analysis
-2.Metro Operations Optimization
-3.B2B Courier Charges Accuracy Analysis
-4. Car Insurance Modelling
-5.Hypothesis Testing
-6.Exploratory Data Analysis using SQL
-<<<<<<< Updated upstream
-7.Document Analysis using LLMs
->>>>>>> Stashed changes
-=======
-7.Document Analysis using LLMs
->>>>>>> Stashed changes
->>>>>>
-Finanças/Economia 
+https://www.alphavantage.co/
 
-https://www.udemy.com/course/python-para-investimentos-na-bolsa-de-valores/?campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=Python&priority=Alpha&funnel=Conversion&matchtype=&gad_campaignid=21486848853&couponCode=2021PM25
+https://polygon.io/
 
-https://medium.com/data-science/getting-started-predicting-time-series-data-with-facebook-prophet-c74ad3040525
+Wealth Management
 
-https://varos.com.br/cursos/codigopy/lista-de-espera?utm_campaign=codigopy_lista_de_espera&utm_source=youtube_brenno&utm_medium=descricao&utm_term=brenno_sullivan&utm_content=otimizacao_markowitz
+Asset Managemnt
 
-https://varos.com.br/cursos/dashpy?utm_campaign=dashpy_checkout&utm_medium=footer&utm_content=/hub
+Private Equity
 
+Equity Reserach
 
+Trading 
+
+Hedge Fund
+
+Venture Capital
+
+Investment Banking
 
 ![cliofinancexx-20250622-0004](https://github.com/user-attachments/assets/3540587a-8677-4744-978d-13a126d2aa80)
 ![cliofinancexx-20250622-0003](https://github.com/user-attachments/assets/3f1ac6b1-4956-4849-91f0-4d67da91c582)
@@ -186,4 +168,3 @@ https://varos.com.br/cursos/dashpy?utm_campaign=dashpy_checkout&utm_medium=foote
 ![rggrg](https://github.com/user-attachments/assets/26a5d2a5-696a-434a-8378-92a4ef5ad936)
 ![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
 ![WhatsApp Image 2025-06-24 at 16 21 20](https://github.com/user-attachments/assets/431a1e44-99d9-4cd3-b575-8c823af4b033)
-![Screenshot_20250625_024909_InstaPlus](https://github.com/user-attachments/assets/627a7fdb-0cea-4124-b3b6-dfcd1a788fc4)
