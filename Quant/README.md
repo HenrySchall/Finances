@@ -46,6 +46,17 @@
 
     Libor Market Model / SABR – usados em derivativos de taxa de juros.
 
+- https://www.coursera.org/specializations/investment-portolio-management
+- https://fkpartners.com/loja/alocacao-de-ativos-e-rebalanceamento-de-carteiras-ancord/
+- https://analisemacro.com.br/curso/mercado-financeiro-e-gestao-de-portfolios-usando-python/
+- https://medium.com/@fabiomt/como-calcular-o-value-at-risk-e-gerar-o-backtesting-em-python-aa39af5c3381
+- https://www.youtube.com/watch?v=YIgU4L-yInM&list=PLr_FMpawrcaHgCfDGIwxBFc0imGk2U3Mb
+- https://www.youtube.com/watch?v=7GGrt3-rRH8&list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
+- https://hotmart.com/pt-br/marketplace/produtos/projetos-python-para-o-mercado-financeiro/T95872287T
+- https://hotmart.com/pt-br/marketplace/produtos/biblioteca-quant/E98052942B
+
+
+
    Modelos de Difusão Estocástica (GBM)
 Modelos com Saltos (Merton Jump Diffusion)
 Modelos de Volatilidade Estocástica (Heston, SABR)
