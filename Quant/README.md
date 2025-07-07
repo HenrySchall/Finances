@@ -59,12 +59,15 @@ Market making algorítmico e arbitragem de latência
 - https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLgWn81pQ2CNKcuUgFosE5YlfJvIZmbVG8
 - https://www.udemy.com/course/python-para-investimentos-na-bolsa-de-valores/?campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=Python&priority=Alpha&funnel=Conversion&matchtype=&gad_campaignid=21486848853&couponCode=2021PM25
 
-
-
-
 https://www.ebook.openquants.com/
 https://github.com/HULLZHU/CQF-1
 https://github.com/eightsmile/cqf
 https://gitlab.com/xxpeterxx/CQF/tree/master/Module%201%20Building%20Blocks%20of%20Quant%20Finance
 https://github.com/virattt/ai-hedge-fund
 https://www.quantconnect.com/
+
+![458578311-26a5d2a5-696a-434a-8378-92a4ef5ad936](https://github.com/user-attachments/assets/e74ce0b7-4777-49a3-87d0-d6cd166f50d5)
+![458578326-73869b0c-5c61-4a32-b5c0-15c7bbab8bc1](https://github.com/user-attachments/assets/21d94bc5-2107-4721-b93c-3e0d26797153)
+![458578318-462a336e-b25f-4459-8a4c-dbfe77b4ceff](https://github.com/user-attachments/assets/1b4b8f9e-8887-42af-bae5-0fb1b4a1b995)
+![458578301-431a1e44-99d9-4cd3-b575-8c823af4b033](https://github.com/user-attachments/assets/37d874e4-5780-4812-b677-5e515585feda)
+
