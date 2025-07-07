@@ -50,3 +50,53 @@
 Modelos com Saltos (Merton Jump Diffusion)
 Modelos de Volatilidade Estocástica (Heston, SABR)
 Árvores binomiais/trinomiais para opções
+
+
+📊 Modelos Estatísticos e Econométricos
+Regressões Lineares e Não Lineares
+Modelos de Séries Temporais:
+ARIMA, SARIMA
+GARCH, EGARCH, TGARCH (modelagem de volatilidade)
+Modelos VAR, VECM
+Modelos Estruturais (SVAR, BVAR)
+
+💹 Modelos de Precificação de Ativos
+Modelo de Black-Scholes (opções)
+Modelos de Difusão Estocástica (GBM)
+Modelos com Saltos (Merton Jump Diffusion)
+Modelos de Volatilidade Estocástica (Heston, SABR)
+Árvores binomiais/trinomiais para opções
+
+💰 Modelos de Risco e Gestão de Carteiras
+Value at Risk (VaR) – Paramétrico, Histórico, Simulação de Monte Carlo
+Expected Shortfall (ES ou CVaR)
+Modelo de Markowitz (fronteira eficiente)
+CAPM e Multifatoriais (Fama-French, Carhart, APT)
+Risk Parity, Minimum Variance, Maximum Diversification
+
+🏗️ Modelos de Machine Learning Aplicados
+Redes Neurais (Deep Learning)
+Árvores de decisão, Random Forest, Gradient Boosting
+SVM, KNN
+Redes neurais recorrentes (RNN, LSTM) para séries temporais
+Modelos generativos (GANs, Diffusion Models) para simulação de mercados
+
+🔢 Modelos Matemáticos e Estocásticos
+Processos de Itô, Browniano, Lévy
+Controle estocástico (ex.: Optimal Execution, Almgren-Chriss)
+Cálculo estocástico aplicado à precificação e hedging
+Modelos de cointegração para arbitragem estatística
+
+🤖 Modelos de Alta Frequência (HFT)
+Modelos de microestrutura de mercado
+Modelos de previsão de ordem-livro
+Market making algorítmico e arbitragem de latência
+
+🌍 Modelos Macroeconômicos Quantitativos
+DSGE Bayesianos
+Modelos Factoriais Dinâmicos
+Modelos de Equilíbrio Geral Estocástico
+Modelos de Alta Frequência (HFT)
+Modelos de microestrutura de mercado
+Modelos de previsão de ordem-livro
+Market making algorítmico e arbitragem de latência
