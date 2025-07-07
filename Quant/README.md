@@ -53,7 +53,11 @@ Market making algorítmico e arbitragem de latência
 - https://youtube.com/playlist?list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
 - https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
 - https://www.quiverquant.com/
--https://www.youtube.com/watch?v=Pa3djq9HU5U&list=PLTXt_K9bOTBpIVLDGli-FLkTtckgrRWvD
+- https://www.youtube.com/watch?v=Pa3djq9HU5U&list=PLTXt_K9bOTBpIVLDGli-FLkTtckgrRWvD
+- https://www.youtube.com/watch?v=DEWM8wf1D24
+- https://www.youtube.com/watch?v=Ets0xGCjQ14
+- https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLgWn81pQ2CNKcuUgFosE5YlfJvIZmbVG8
+
 
 https://www.ebook.openquants.com/
 https://github.com/HULLZHU/CQF-1
