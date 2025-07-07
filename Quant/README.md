@@ -58,7 +58,7 @@
 - https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
 - https://www.quiverquant.com/
 
-
+https://www.youtube.com/watch?v=Pa3djq9HU5U&list=PLTXt_K9bOTBpIVLDGli-FLkTtckgrRWvD
 
 https://www.ebook.openquants.com/
 https://github.com/HULLZHU/CQF-1
