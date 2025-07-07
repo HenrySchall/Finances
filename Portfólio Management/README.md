@@ -198,3 +198,6 @@ O Value at Risk (VaR) é um modelo amplamente utilizado para avaliar o risco fin
 3) VaR Histórico (Backtesting) = Baseia-se nos retornos históricos do portfólio, ou seja, ordena os retornos e encontra o percentil correspondente ao nível de confiança escolhido. Se o nível de confiança for 95%, o VaR será o retorno no 5º percentil dos dados históricos.
 
 6) VaR de Simulação de Monte Carlo = Gera múltiplas simulações de retornos futuros usando processos estocásticos (ex: Modelo de Black-Scholes, GARCH), ou seja, calcula o VaR a partir da distribuição simulada de retornos.
+
+https://www.youtube.com/watch?v=9MSPeAYBYIY&list=WL&index=8
+https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
