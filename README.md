@@ -2,7 +2,6 @@
 
 ![img1](https://github.com/user-attachments/assets/3320328e-efb4-49c8-bb23-6a1f55002648)
 
-https://geracaoedu.com.br/
 > Finance is an area of ​​economics that studies the management of money, assets and investments. It involves the analysis, creation and management of financial resources for individuals, businesses and governments, with the aim of maximizing wealth and minimizing risk, helping to allocate resources efficiently, to ensure sustainable economic growth.
 
 ### Main Areas of Finance
@@ -15,27 +14,23 @@ https://geracaoedu.com.br/
 
 4) Public Finance: Involves the financial management of public institutions, responsible for fiscal and monetary policy, public debt and issuance of government bonds and public budget for infrastructure investments.
 
-https://geracaoedu.com.br/
-
-
 5) Behavioral Finance: Studies how emotions and biases affect financial decisions, herd effect, loss aversion, overconfidence and irrational decision making in the markets.
-https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
+
 ### Repository Bibliographic References:
 - Corporate Finance, by Stephen A. Ross
 - Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
-- https://www.ebook.openquants.com/
-https://github.com/HULLZHU/CQF-1
-https://github.com/eightsmile/cqf
-https://gitlab.com/xxpeterxx/CQF/tree/master/Module%201%20Building%20Blocks%20of%20Quant%20Finance
-
 
 Returner of Optimized Value -
 
 https://cbonds.com/
 
+https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
+
 https://github.com/virattt/ai-hedge-fund
 
 # Finances
+
+https://geracaoedu.com.br/
 
 Portfolio Returns Funds (World)
 https://www.dataroma.com/m/home.php
@@ -50,6 +45,11 @@ https://stockanalysis.com/
 https://finchat.io/dashboard/
 
 https://finviz.com/
+
+- https://www.ebook.openquants.com/
+https://github.com/HULLZHU/CQF-1
+https://github.com/eightsmile/cqf
+https://gitlab.com/xxpeterxx/CQF/tree/master/Module%201%20Building%20Blocks%20of%20Quant%20Finance
 
 Portfolio Analyse (Brasil)
 https://www.oceans14.com.br/
