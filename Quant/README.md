@@ -45,3 +45,8 @@
     Hull-White – permite melhor ajuste à curva inicial.
 
     Libor Market Model / SABR – usados em derivativos de taxa de juros.
+
+   Modelos de Difusão Estocástica (GBM)
+Modelos com Saltos (Merton Jump Diffusion)
+Modelos de Volatilidade Estocástica (Heston, SABR)
+Árvores binomiais/trinomiais para opções
