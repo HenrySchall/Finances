@@ -158,7 +158,3 @@ Hedge Fund
 Venture Capital
 
 Investment Banking
-
-![cliofinancexx-20250622-0004](https://github.com/user-attachments/assets/3540587a-8677-4744-978d-13a126d2aa80)
-![cliofinancexx-20250622-0003](https://github.com/user-attachments/assets/3f1ac6b1-4956-4849-91f0-4d67da91c582)
-![cliofinancexx-20250622-0002](https://github.com/user-attachments/assets/0617c39f-21b0-48ab-b9ac-bfd6702946d4)
