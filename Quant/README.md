@@ -58,6 +58,15 @@
 - https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
 - https://www.quiverquant.com/
 
+
+
+https://www.ebook.openquants.com/
+https://github.com/HULLZHU/CQF-1
+https://github.com/eightsmile/cqf
+https://gitlab.com/xxpeterxx/CQF/tree/master/Module%201%20Building%20Blocks%20of%20Quant%20Finance
+https://github.com/virattt/ai-hedge-fund
+
+
    Modelos de Difusão Estocástica (GBM)
 Modelos com Saltos (Merton Jump Diffusion)
 Modelos de Volatilidade Estocástica (Heston, SABR)
