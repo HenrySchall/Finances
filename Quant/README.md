@@ -57,6 +57,9 @@ Market making algorítmico e arbitragem de latência
 - https://www.youtube.com/watch?v=DEWM8wf1D24
 - https://www.youtube.com/watch?v=Ets0xGCjQ14
 - https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLgWn81pQ2CNKcuUgFosE5YlfJvIZmbVG8
+- https://www.udemy.com/course/python-para-investimentos-na-bolsa-de-valores/?campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=Python&priority=Alpha&funnel=Conversion&matchtype=&gad_campaignid=21486848853&couponCode=2021PM25
+
+
 
 
 https://www.ebook.openquants.com/
