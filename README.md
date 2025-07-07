@@ -63,6 +63,12 @@ https://infograficos.valor.globo.com/carteira-valor/
 
 https://content.btgpactual.com/research/home/acoes/
 
+https://www.youtube.com/watch?v=Pa3djq9HU5U&list=PLTXt_K9bOTBpIVLDGli-FLkTtckgrRWvD
+
+https://www.youtube.com/watch?v=C51On8YmGCw&list=PL16CA1557F889CCEB
+https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C
+
+
 TIKR plataforma
 
 https://www.stock-analysis-on.net/
