@@ -47,20 +47,15 @@ Título Públicos Americano
 - https://www.coursera.org/learn/fixed-income?specialization=financial-instruments-trading-investing
 
 M&A
-https://www.coursera.org/learn/mergers-acquisitions-valuation-pricing
-https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fusoes-e-aquisicoes-e-processos-de-due-dilligence-2?oferta=116863
+- https://www.coursera.org/learn/mergers-acquisitions-valuation-pricing
+- https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fusoes-e-aquisicoes-e-processos-de-due-dilligence-2?oferta=116863
 
 Private Equity 
-https://www.coursera.org/learn/private-equity
-https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
+- https://www.coursera.org/learn/private-equity
+- https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
 
 Análise de Demonstrativos Financeiros
-https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-python/
-
-
-
-
-
+- https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-python/
 
 
 
@@ -121,7 +116,6 @@ UPenn = Goldman Sachs
 - https://finchat.io/dashboard/ (Portfolio Analyse)
 - https://finviz.com/ (Portfolio Analyse)
 - https://www.stock-analysis-on.net/
-
 - https://www.oceans14.com.br/
 - https://fundamentei.com/pt-BR/
 - https://investidor10.com.br/
@@ -149,13 +143,6 @@ Snyk
 PrimeBlock
 Lalamove
 Canva
-
-https://www.youtube.com/watch?v=DEWM8wf1D24
-https://www.youtube.com/watch?v=Ets0xGCjQ14
-https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLgWn81pQ2CNKcuUgFosE5YlfJvIZmbVG8
-https://www.youtube.com/watch?v=9MSPeAYBYIY&list=WL&index=8
-https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
-https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
 
 Demand Forecasting & Inventory Optimization
 2.Price Optimization
