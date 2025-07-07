@@ -15,6 +15,9 @@
 
 4) Public Finance: Involves the financial management of public institutions, responsible for fiscal and monetary policy, public debt and issuance of government bonds and public budget for infrastructure investments.
 
+https://geracaoedu.com.br/
+
+
 5) Behavioral Finance: Studies how emotions and biases affect financial decisions, herd effect, loss aversion, overconfidence and irrational decision making in the markets.
 https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
 ### Repository Bibliographic References:
