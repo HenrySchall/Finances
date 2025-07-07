@@ -48,9 +48,11 @@ Título Públicos Americano
 
 M&A
 https://www.coursera.org/learn/mergers-acquisitions-valuation-pricing
+https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fusoes-e-aquisicoes-e-processos-de-due-dilligence-2?oferta=116863
 
 Private Equity 
 https://www.coursera.org/learn/private-equity
+https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
 
 Análise de Demonstrativos Financeiros
 https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-python/
@@ -61,24 +63,17 @@ https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-p
 
 
 
-![cliofinancexx-20250622-0004](https://github.com/user-attachments/assets/3540587a-8677-4744-978d-13a126d2aa80)
-![cliofinancexx-20250622-0003](https://github.com/user-attachments/assets/3f1ac6b1-4956-4849-91f0-4d67da91c582)
-![cliofinancexx-20250622-0002](https://github.com/user-attachments/assets/0617c39f-21b0-48ab-b9ac-bfd6702946d4)
 
-https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/gestao-de-tributos-2
-https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/gestao-do-ciclo-de-credito-da-concessao-recuperacao-2?oferta=116225
-https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-private-equity-venture-capital-e-investimentos-em-startups-1?oferta=112452
-https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fusoes-e-aquisicoes-e-processos-de-due-dilligence-2?oferta=116863
 
-https://youtube.com/playlist?list=PL3F00F1C2D402D45C
 
-https://youtube.com/playlist?list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
 
-https://youtube.com/playlist?list=PLrYvCXsKilY2waPFWYACDOikg1SxhgxPu
 
-https://youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9
 
-https://youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55
+
+
+
+
+
 
 https://alpaca.markets/
 https://www.alphavantage.co/
@@ -110,72 +105,31 @@ Columbia = Goldman Sachs
 Havard = Goldman Sachs
 UPenn = Goldman Sachs
 
-https://www.quiverquant.com/
-https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
-
-
-![fvfv](https://github.com/user-attachments/assets/a9d7a366-4574-452b-a25e-f17a5f9391f0)
-![bfgbfb](https://github.com/user-attachments/assets/73869b0c-5c61-4a32-b5c0-15c7bbab8bc1)
-![ffeefe](https://github.com/user-attachments/assets/462a336e-b25f-4459-8a4c-dbfe77b4ceff)
-![rggrg](https://github.com/user-attachments/assets/26a5d2a5-696a-434a-8378-92a4ef5ad936)
-![WhatsApp Image 2025-06-24 at 16 21 20](https://github.com/user-attachments/assets/431a1e44-99d9-4cd3-b575-8c823af4b033)
-
-![Screenshot_20250625_024909_InstaPlus](https://github.com/user-attachments/assets/627a7fdb-0cea-4124-b3b6-dfcd1a788fc4)
 
 
 
-# Finances
-
-https://cbonds.com/
-
-https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
-
-https://github.com/virattt/ai-hedge-fund
-
-https://geracaoedu.com.br/
-
-Portfolio Returns Funds (World)
-https://www.dataroma.com/m/home.php
-
-https://www.joinyellowbrick.com/
-
-https://whalewisdom.com/
-
-Portfolio Analyse (World)
-https://stockanalysis.com/
-
-https://finchat.io/dashboard/
-
-https://finviz.com/
-
-- https://www.ebook.openquants.com/
-https://github.com/HULLZHU/CQF-1
-https://github.com/eightsmile/cqf
-https://gitlab.com/xxpeterxx/CQF/tree/master/Module%201%20Building%20Blocks%20of%20Quant%20Finance
-
-Portfolio Analyse (Brasil)
-https://www.oceans14.com.br/
-
-https://fundamentei.com/pt-BR/
-
-https://investidor10.com.br/
-
-Retornos de Mercado (Brasil)
-https://infograficos.valor.globo.com/carteira-valor/
-
-https://content.btgpactual.com/research/home/acoes/
-
-https://www.youtube.com/watch?v=Pa3djq9HU5U&list=PLTXt_K9bOTBpIVLDGli-FLkTtckgrRWvD
-
-https://www.youtube.com/watch?v=C51On8YmGCw&list=PL16CA1557F889CCEB
-https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C
 
 
-TIKR plataforma
 
-https://www.stock-analysis-on.net/
 
-https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
+- https://cbonds.com/
+- https://libguides.uwf.edu/subjectdatabase/business#s-lg-box-29264043
+- https://www.dataroma.com/m/home.php (Portfolio Returns Funds)
+- https://www.joinyellowbrick.com/ (Portfolio Returns Funds)
+- https://whalewisdom.com/ (Portfolio Returns Funds)
+- https://stockanalysis.com/ (Portfolio Analyse)
+- https://finchat.io/dashboard/ (Portfolio Analyse)
+- https://finviz.com/ (Portfolio Analyse)
+- https://www.stock-analysis-on.net/
+
+- https://www.oceans14.com.br/
+- https://fundamentei.com/pt-BR/
+- https://investidor10.com.br/
+- https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
+
+
+
+
 
 IPO Watchlist
 Jaka Robotics
@@ -202,14 +156,6 @@ https://www.youtube.com/watch?v=EeSrQdab0s0&list=PLgWn81pQ2CNKcuUgFosE5YlfJvIZmb
 https://www.youtube.com/watch?v=9MSPeAYBYIY&list=WL&index=8
 https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
 https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
-
-=======
-=======
->>>>>>> Stashed changes
 
 Demand Forecasting & Inventory Optimization
 2.Price Optimization
@@ -242,3 +188,15 @@ https://varos.com.br/cursos/codigopy/lista-de-espera?utm_campaign=codigopy_lista
 
 https://varos.com.br/cursos/dashpy?utm_campaign=dashpy_checkout&utm_medium=footer&utm_content=/hub
 
+
+
+![cliofinancexx-20250622-0004](https://github.com/user-attachments/assets/3540587a-8677-4744-978d-13a126d2aa80)
+![cliofinancexx-20250622-0003](https://github.com/user-attachments/assets/3f1ac6b1-4956-4849-91f0-4d67da91c582)
+![cliofinancexx-20250622-0002](https://github.com/user-attachments/assets/0617c39f-21b0-48ab-b9ac-bfd6702946d4)
+![fvfv](https://github.com/user-attachments/assets/a9d7a366-4574-452b-a25e-f17a5f9391f0)
+![bfgbfb](https://github.com/user-attachments/assets/73869b0c-5c61-4a32-b5c0-15c7bbab8bc1)
+![ffeefe](https://github.com/user-attachments/assets/462a336e-b25f-4459-8a4c-dbfe77b4ceff)
+![rggrg](https://github.com/user-attachments/assets/26a5d2a5-696a-434a-8378-92a4ef5ad936)
+![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
+![WhatsApp Image 2025-06-24 at 16 21 20](https://github.com/user-attachments/assets/431a1e44-99d9-4cd3-b575-8c823af4b033)
+![Screenshot_20250625_024909_InstaPlus](https://github.com/user-attachments/assets/627a7fdb-0cea-4124-b3b6-dfcd1a788fc4)
