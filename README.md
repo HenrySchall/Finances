@@ -6,8 +6,6 @@
 # Finances
 ![img1](https://github.com/user-attachments/assets/3320328e-efb4-49c8-bb23-6a1f55002648)
 
-<em>Empowering Machines to Think, Learn, and Innovate</em>
-
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/HenrySchall/Artificial_Intelligence?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 <img src="https://img.shields.io/github/last-commit/HenrySchall/Artificial_Intelligence?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -23,24 +21,6 @@
 <br>
 
 ---
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
-- [Features](#features)
-- [Project Structure](#project-structure)
-    - [Project Index](#project-index)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgment](#acknowledgment)
-
-
 > Finance is an area of ​​economics that studies the management of money, assets and investments. It involves the analysis, creation and management of financial resources for individuals, businesses and governments, with the aim of maximizing wealth and minimizing risk, helping to allocate resources efficiently, to ensure sustainable economic growth.
 
 ### Main Areas of Finance
