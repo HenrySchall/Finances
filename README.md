@@ -63,7 +63,7 @@ Quant trading: Firmas que utilizam modelos matemáticos e algoritmos complexos p
 
 Finanças Corporativas: Foca na gestão financeira das empresas, como gestão do capital de giro, decisões de investimento (CAPEX), financiamento (emissão de ações, dívidas, empréstimos) e avaliação de projetos. 
 
-### Repository Bibliographic References:
+### Bibliographic References:
 - Corporate Finance, by Stephen A. Ross
 - Python for Finance: Mastering Data-Driven Finance, by Yves J. Hilpisch
 
