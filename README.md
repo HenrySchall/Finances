@@ -25,15 +25,23 @@
 
 ### Principais Áreas de Finanças
 
-- Wealth Management: Auxiliar clientes de alta renda na gestão e crescimento de seu patrimônio, oferecendo soluções personalizadas e integradas 
-- Asset Managemnt: Processo de administrar e investir o dinheiro de clientes (sejam indivíduos, empresas ou instituições) para maximizar seus retornos e minimizar riscos
-- Private Equity: Processo de adquiri participações em empresas privadas, com o objetivo de aumentar o valor dessas empresas e, posteriormente, vendê-las com lucro****
-- Equity Reserach: Processo de análise aprofundada de empresas listadas em bolsa de valores, com o objetivo de fornecer recomendações de investimento para clientes
-- Hedge Fund: São fundos de investimento que utilizam estratégias sofisticadas de negociação e gestão de risco de ativos, buscando maximizar o retorno esperado
-- Venture Capital: Firmas focadas no investimento em empresas de alto potencial de crescimento, geralmente em estágios iniciais (startups), que apresentam um nível de risco elevado
-- Investment Banking: Assessoria financeira para empresas, oferecendo serviços como: captação de recursos, fusões e aquisições (M&A), e gestão de riscos. Basicamente, são intermediários entre empresas e investidores interessados em financiar essas empresas.
-- Quant trading: Firmas que utilizam modelos matemáticos e algoritmos complexos para identificar oportunidades de negociação em mercados financeiros.
-- Finanças Corporativas: Foca na gestão financeira das empresas, como gestão do capital de giro, decisões de investimento (CAPEX), financiamento (emissão de ações, dívidas, empréstimos) e avaliação de projetos. 
+Wealth Management: Auxiliar clientes de alta renda na gestão e crescimento de seu patrimônio, oferecendo soluções personalizadas e integradas. 
+
+Asset Managemnt: Processo de administrar e investir o dinheiro de clientes (sejam indivíduos, empresas ou instituições) para maximizar seus retornos e minimizar riscos.
+
+Private Equity: Processo de adquiri participações em empresas privadas, com o objetivo de aumentar o valor dessas empresas e, posteriormente, vendê-las com lucro.
+
+Equity Reserach: Processo de análise aprofundada de empresas listadas em bolsa de valores, com o objetivo de fornecer recomendações de investimento para clientes.
+
+Hedge Fund: São fundos de investimento que utilizam estratégias sofisticadas de negociação e gestão de risco de ativos, buscando maximizar o retorno esperado.
+
+Venture Capital: Firmas focadas no investimento em empresas de alto potencial de crescimento, geralmente em estágios iniciais (startups), que apresentam um nível de risco elevado.
+
+Investment Banking: Assessoria financeira para empresas, oferecendo serviços como: captação de recursos, fusões e aquisições (M&A), e gestão de riscos. Basicamente, são intermediários entre empresas e investidores interessados em financiar essas empresas.
+
+Quant trading: Firmas que utilizam modelos matemáticos e algoritmos complexos para identificar oportunidades de negociação em mercados financeiros.
+
+Finanças Corporativas: Foca na gestão financeira das empresas, como gestão do capital de giro, decisões de investimento (CAPEX), financiamento (emissão de ações, dívidas, empréstimos) e avaliação de projetos. 
 
 ### Repository Bibliographic References:
 - Corporate Finance, by Stephen A. Ross
