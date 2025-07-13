@@ -1,5 +1,11 @@
 # Quant
 
+pacotes 
+riskfolio
+pyfolio
+zipline
+Quantreo
+
 Modelos de séries temporais
 - ARIMA, GARCH, EGARCH, TGARCH – previsões de retornos ou volatilidade.
 - VAR / SVAR / Bayesian VAR – analisar interações entre vários ativos ou variáveis macroeconômicas.
