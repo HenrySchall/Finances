@@ -4,6 +4,7 @@
 
 #### Créditos e Fraude
 - https://www.datacamp.com/courses/credit-risk-modeling-in-python
+- https://corporatefinanceinstitute.com/resources/commercial-lending/credit-risk-analysis-models/
 - https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/credito-e-risco
 - https://www.udemy.com/course/fraud-detection-fraud-analytics-risk-management/?couponCode=LOCLZDOFFPBRCTRL
 - https://www.udemy.com/course/payment-risk-and-payment-fraud-data-science-and-analytics/?couponCode=LOCLZDOFFPBRCTRL
