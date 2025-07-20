@@ -5,7 +5,8 @@
 
 # Time Series
 
-![Img](https://github.com/user-attachments/assets/1eac8d6f-b710-4c2e-8e98-7dea5ca932fd)
+![Img](https://github.com/user-attachments/assets/ab756244-b02d-4218-b666-a44df7f56343)
+
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/HenrySchall/Artificial_Intelligence?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -47,7 +48,7 @@
 * Seasonality (Szt): upward and downward oscillations that always occur in a given period (higher electricity bills in winter).
 * Residuals (et): shows upward and downward movements in the series after removing the trend or seasonal effect (sequence of random variables).
 
-![plot](https://github.com/user-attachments/assets/6cde76a5-8419-4d3c-b32b-1630c27b36a5)
+<img width="1536" height="917" alt="408192437-6cde76a5-8419-4d3c-b32b-1630c27b36a5" src="https://github.com/user-attachments/assets/a9456813-01d2-47e2-b8d6-14c093f7511b" />
 
 > Time series studies can be used for future predictions, description of serial behavior, and analysis of periodicity, trends, or even the process that generates the series. They are divided into two types:
 
@@ -61,7 +62,8 @@
 - $𝜎^2(𝑡)=𝑉𝑎𝑟{𝑍(𝑡)}$ -> Variance 
 - $𝛾(𝑡1,𝑡2)=𝐶𝑜𝑣{𝑍(𝑡1),𝑍(𝑡2)}$ -> Autocovariance
 
-![estocastico](https://github.com/user-attachments/assets/d1a7faa1-0cad-46f2-bf2c-b369e13209c2)
+![408208170-d1a7faa1-0cad-46f2-bf2c-b369e13209c2](https://github.com/user-attachments/assets/d3282814-effa-4e4f-9bc7-c62b49645a47)
+
 
 > Stationarity -> is when a time series presents all its statistical characteristics constant over time
 
@@ -70,19 +72,20 @@
 
 > Autocorrelation -> is the correlation of certain previous periods with the current period, that is, the degree of serial dependence. Each period of this type of correlation is called lag and its representation is made by the Autocorrelation Function (ACF) and the Partial Autocorrelation Function (PAF), both of which compare the present value with the past values ​​of the series. The difference between them is that the CAF analyzes both direct and indirect correlation, while the PAF only analyzes direct correlation. So we can say that the CAF sees the direct correlation of the month of January in March and also the indirect correlation that the month of January had in February, which also had in March, while the PAF only the correlation of January in March. This analysis is done because it is the essential assumption for creating efficient forecasts of a series.
 
-![FAC](https://github.com/user-attachments/assets/4623a946-6427-4bc2-aadc-d8219df93db9)
+<img width="1536" height="917" alt="408201847-4623a946-6427-4bc2-aadc-d8219df93db9" src="https://github.com/user-attachments/assets/e6e5ecc6-65fd-4893-8c8a-d095db0fb407" />
 
-![FACP](https://github.com/user-attachments/assets/9d577631-0da2-4101-b695-cfa4f35d2fc5)
+<img width="1536" height="917" alt="408201867-9d577631-0da2-4101-b695-cfa4f35d2fc5" src="https://github.com/user-attachments/assets/f41b5ff9-f11c-4f8a-90b3-ecc26353ac57" />
+
 
 > White Noise -> is when the error of a time series follows a normal distribution, that is, a purely random process.
 - E(Xt)=0
 - Var(Xt)=𝜎2
 
-![Captura de tela 2025-01-30 132421](https://github.com/user-attachments/assets/0fbabff6-f692-48ad-bc84-bea27f7f30ae)
+<img width="1952" height="1392" alt="408206487-0fbabff6-f692-48ad-bc84-bea27f7f30ae" src="https://github.com/user-attachments/assets/8fd50fde-b4ed-4256-b31e-8abce4ab85cd" />
 
 > Random Walk -> is the sum of small stochastic fluctuations (stochastic trend). Mathematically: 𝑍𝑡=𝑍(𝑡−1)+et
 
-![Captura de tela 2025-01-30 132324](https://github.com/user-attachments/assets/bf7ce3a1-560b-45ad-9d1c-459cea90fe26)
+<img width="2040" height="1408" alt="408207057-bf7ce3a1-560b-45ad-9d1c-459cea90fe26" src="https://github.com/user-attachments/assets/32b2b0d1-8911-424e-965a-b11569b2ff1d" />
 
 > Transformation and Smoothing -> These are techniques that seek to make the series as close as possible to a normal distribution. Transforming the value of the variables or smoothing the trend and/or seasonality of the series. Among all the existing techniques we can mention:
 
@@ -94,7 +97,7 @@
 
 > Differentiation -> Differentiation seeks to transform a non-stationary series into a stationary one, by means of the difference of two consecutive periods
 
-![Sem Título-1](https://github.com/user-attachments/assets/390abc00-d4aa-41bf-be96-6ec3eeaf7684)
+![408205748-390abc00-d4aa-41bf-be96-6ec3eeaf7684](https://github.com/user-attachments/assets/c83a4ec2-4faa-4c3d-b3d8-a555de35072d)
 
 #### Univariate time series models:
 Linear models:
