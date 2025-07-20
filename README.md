@@ -39,12 +39,12 @@
     - []()
 - [Risk Management]()
     - []()
-- [Time Series]()
-    - []()
 - [Portfolio Management]()
     - []()
 - [Quant]()
     - []()
+
+<img width="2360" height="1640" alt="IMG_2907" src="https://github.com/user-attachments/assets/bfb3cb52-fb5a-4d2c-8e71-0eae11e54331" />
 
 ---
 ### Bibliographic References:
