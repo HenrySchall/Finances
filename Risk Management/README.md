@@ -8,3 +8,4 @@
 - https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/credito-e-risco
 - https://www.udemy.com/course/fraud-detection-fraud-analytics-risk-management/?couponCode=LOCLZDOFFPBRCTRL
 - https://www.udemy.com/course/payment-risk-and-payment-fraud-data-science-and-analytics/?couponCode=LOCLZDOFFPBRCTRL
+- https://www.datacamp.com/courses/fraud-detection-in-python
