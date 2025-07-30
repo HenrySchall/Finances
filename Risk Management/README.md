@@ -9,3 +9,4 @@
 - https://www.udemy.com/course/fraud-detection-fraud-analytics-risk-management/?couponCode=LOCLZDOFFPBRCTRL
 - https://www.udemy.com/course/payment-risk-and-payment-fraud-data-science-and-analytics/?couponCode=LOCLZDOFFPBRCTRL
 - https://www.datacamp.com/courses/fraud-detection-in-python
+- https://febrabaneducacao.com.br/cursos/ead/ead-de-credito-e-gerenciamento-de-riscos-na-recuperacao-de-credito
