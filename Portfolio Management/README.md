@@ -201,3 +201,5 @@ O Value at Risk (VaR) é um modelo amplamente utilizado para avaliar o risco fin
 
 https://www.youtube.com/watch?v=9MSPeAYBYIY&list=WL&index=8
 https://www.youtube.com/watch?v=3nNE2kncdyM&list=WL&index=9
+
+https://www.coursera.org/learn/python-statistics-financial-analysis?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1-v2_en_m_hyb_24-04_nonNRL-within-14d&campaignid=21239613742&adgroupid=&device=m&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6501905150&targetid=&extensionid=&placement=&gad_campaignid=21320925518 
