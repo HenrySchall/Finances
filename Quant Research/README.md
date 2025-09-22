@@ -1,15 +1,4 @@
-# Quant
-
-pacotes 
-riskfolio
-pyfolio
-zipline
-Quantreo
-
-Modelos de séries temporais
-- ARIMA, GARCH, EGARCH, TGARCH – previsões de retornos ou volatilidade.
-- VAR / SVAR / Bayesian VAR – analisar interações entre vários ativos ou variáveis macroeconômicas.
-- Modelos de alta frequência (ex.: modelos de ponto de ocorrência) – para dados intradiários.
+# Quant Research
 
 Modelos de precificação
 - Black-Scholes-Merton – opção europeia.
@@ -18,7 +7,7 @@ Modelos de precificação
 - Modelos de volatilidade estocástica (ex.: Heston, SABR) – volatilidade também é aleatória.
 - Modelos de saltos (ex.: Merton Jump-Diffusion) – capturam movimentos bruscos.
 
-Modelos de risco
+Modelos de Risco
 - VaR (Value at Risk) – perda máxima esperada num nível de confiança.
 - Expected Shortfall – perda média além do VaR.
 - Stress testing – simulação de cenários extremos.
@@ -77,3 +66,11 @@ https://www.quantconnect.com/
 ![458578318-462a336e-b25f-4459-8a4c-dbfe77b4ceff](https://github.com/user-attachments/assets/1b4b8f9e-8887-42af-bae5-0fb1b4a1b995)
 ![458578301-431a1e44-99d9-4cd3-b575-8c823af4b033](https://github.com/user-attachments/assets/37d874e4-5780-4812-b677-5e515585feda)
 ![Captura de tela 2025-07-07 201911](https://github.com/user-attachments/assets/0ee7ffad-4384-4eb3-962a-f2b898bea0d6)
+
+
+
+pacotes 
+riskfolio
+pyfolio
+zipline
+Quantreo
