@@ -10,10 +10,6 @@ from statsmodels.tsa.api import ExponentialSmoothing, SimpleExpSmoothing, Holt
 # Configuração do padrão de medidas do plot dos gráficos
 rcParams['figure.figsize'] = 15, 6
 
-##################
-### PremieRPet ###
-##################
-
 url = "C:/Users/HenriqueSchall/Desktop/Dados_Tratados.xlsx"
 df = pd.read_excel(url, sheet_name="Faturamento_Historico")
 print(df)
