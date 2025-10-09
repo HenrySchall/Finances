@@ -359,7 +359,274 @@ relação não-linear e negativa de ordem 𝜏=−0,7692.
 *Observação: Pode-se fazer uma comparação entre coeficiente de correlação de Spearman e o coeficiente de correlação por postos de Kendall. Os valores numéricos não são iguais, quando calculados para os mesmos pares de postos, e não são comparáveis numericamente. Contudo, pelo fato de utilizarem a mesma quantidade de informação contida nos dados, ambos têm o mesmo poder de detectar a existência de associação na população, e rejeitarão a hipótese nula para um mesmo nível de significância.*
 
 
+############################
+### Holt-Winters Aditivo ###
+############################
 
+from statsmodels.tsa.api import ExponentialSmoothing, SimpleExpSmoothing, Holt
+
+# PremierPet
+Produto = 4002
+serie = df[df['Produto'] == Produto][['Datetime', 'Quantidade']].copy()
+serie.set_index('Datetime', inplace=True)
+
+# Ajusta o modelo
+fit1 = ExponentialSmoothing(
+    serie,
+    trend='additive',
+    damped_trend = False,
+    seasonal='additive',
+    seasonal_periods=12,
+).fit()
+
+forecast = fit1.forecast(12)
+print(forecast)
+
+# Valores Passados
+fit1.fittedvalues.plot(style='--', color='red')
+plt.show()
+
+# Valores Futuros
+fit = 12 # meses futuros
+fit1.forecast(fit).plot(style='--', marker='o', color='black', legend=True)
+plt.show()
+
+# Agrupando tudo em um gráfico
+forecast_h = 12  # meses futuros
+forecast = fit1.forecast(forecast_h)
+
+plt.plot(serie, label='Observado', color='blue')
+plt.plot(fit1.fittedvalues, '--', label='Ajustado', color='red')
+plt.plot(forecast, '--o', label='Previsão', color='black')
+plt.xlabel('Data')
+plt.ylabel('Quantidade')
+plt.title(f'Previsão Holt-Winters - Produto {Produto}')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+###################################
+### Holt-Winters Multiplicativo ###
+###################################
+
+from statsmodels.tsa.api import ExponentialSmoothing, SimpleExpSmoothing, Holt
+
+# PremierPet
+Produto = 4002
+serie = df[df['Produto'] == Produto][['Datetime', 'Quantidade']].copy()
+serie.set_index('Datetime', inplace=True)
+
+# Ajusta o modelo
+fit2 = ExponentialSmoothing(
+    serie,
+    trend='multiplicative',
+    damped_trend = False
+    seasonal='multiplicative',
+    seasonal_periods=12,
+).fit()
+
+forecast = fit2.forecast(12)
+print(forecast)
+
+# Valores Passados
+fit2.fittedvalues.plot(style='--', color='red')
+plt.show()
+
+# Valores Futuros
+fit = 12 # meses futuros
+fit2.forecast(fit).plot(style='--', marker='o', color='black', legend=True)
+plt.show()
+
+# Agrupando tudo em um gráfico
+forecast_h = 12  # meses futuros
+forecast = fit2.forecast(forecast_h)
+
+plt.plot(serie, label='Observado', color='blue')
+plt.plot(fit2.fittedvalues, '--', label='Ajustado', color='red')
+plt.plot(forecast, '--o', label='Previsão', color='black')
+plt.xlabel('Data')
+plt.ylabel('Quantidade')
+plt.title(f'Previsão Holt-Winters - Produto {Produto}')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+##############################
+### Média Móvel Simples 3M ###
+##############################
+
+import numpy as np
+
+# PremierPet
+Produto = 4001
+serie = df[df['Produto'] == Produto][['Datetime', 'Quantidade']].copy()
+serie.set_index('Datetime', inplace=True)
+
+serie_MMS = serie['Quantidade'].rolling(3).mean()
+print(serie_MMS)
+
+# Plotando os resultados
+plt.plot(serie['Quantidade'], label='Original', color='blue')
+plt.plot(serie_MMS, label='Média Móvel Simples 3M', color='red')
+plt.xlabel("Ano", fontsize=14)
+plt.ylabel("Quantidade")
+plt.title(f"Média Móvel Simples 3 Meses - Produto {Produto}")
+plt.legend()
+plt.grid(True)
+plt.show()
+
+################################
+### Média Móvel Ponderada 3M ###
+################################
+
+import numpy as np
+
+# PremierPet
+Produto = 4001
+serie = df[df['Produto'] == Produto][['Datetime', 'Quantidade']].copy()
+serie.set_index('Datetime', inplace=True)
+
+weights = np.array([0.1, 0.3, 0.6])
+serie_MMP = serie['Quantidade'].rolling(window=3).apply(lambda x: np.dot(x, weights), raw=True)
+print(serie_MMP)
+
+# Plotando os resultados
+plt.plot(serie['Quantidade'], label='Original', color='blue')
+plt.plot(serie_MMP, label='Média Móvel Ponderada 3M', color='red')
+plt.xlabel("Ano", fontsize=14)
+plt.ylabel("Quantidade")
+plt.title(f"Média Móvel Ponderada 3 Meses - Produto {Produto}")
+plt.legend()
+plt.grid(True)
+plt.show()
+
+################
+### LightGBM ###
+################
+
+import lightgbm as lgb
+from mlforecast import MLForecast
+from mlforecast.lag_transforms import ExpandingMean, RollingMean
+from mlforecast.target_transforms import Differences
+
+# PremierPet
+Produto = 4002
+series = df[df['Produto'] == Produto][['Datetime', 'Quantidade']].copy()
+series.set_index('Datetime', inplace=True)
+
+series = series.reset_index().rename(columns={
+    'Datetime': 'ds',
+    'Quantidade': 'y'
+})
+series['unique_id'] = Produto
+
+models = [lgb.LGBMRegressor(random_state=0, verbosity=-1)]
+
+# Previsão com MLForecast
+fcst = MLForecast(
+    models=models,
+    freq='D',
+    lags=[7, 14],
+    lag_transforms={
+    1: [ExpandingMean()],
+    7: [RollingMean(window_size=28)]
+    },
+    date_features=['dayofweek'],
+    target_transforms=[Differences([1])],
+)
+
+# Ajuste do modelo
+fcst.fit(series)
+
+# Valores Observado
+plt.plot(series['ds'], series['y'], label='Observado', color='blue')
+plt.show()
+
+# Previsão Valores Futuros
+n = 12 # meses futuros
+forecast = fcst.predict(n)
+plt.plot(forecast['ds'], forecast['LGBMRegressor'], '--', label='Previsto', color='red')
+plt.show()
+
+# Previsão In-sample
+train = series.iloc[:-12]  # últimos 12 meses como treino
+test = series.iloc[-12:] # últimos 12 meses como teste
+
+fcst.fit(train)
+n = 36
+predictions = fcst.predict(n) 
+plt.plot(test['ds'], test['y'], label='Teste Observado', color='Green') # 12 meses à frente
+plt.show()
+
+# Plot
+plt.figure(figsize=(12,6))
+plt.plot(series['ds'], series['y'], label='Treino', color='blue')
+plt.plot(test['ds'], test['y'], label='Teste', color='White', linestyle='--')
+plt.plot(forecast['ds'], forecast['LGBMRegressor'], '--', label='Previsto', color='red')
+plt.xlabel('Data')
+plt.ylabel('Quantidade')
+plt.legend()
+plt.grid(True, linestyle='--', alpha=0.6)
+plt.tight_layout()
+plt.show()
+
+####################
+### AutoLightGBM ###
+####################
+
+import lightgbm as lgb
+from mlforecast import MLForecast
+from mlforecast.auto import AutoLightGBM, AutoXGBoost, AutoMLForecast
+from mlforecast.target_transforms import Differences
+
+###################
+### AutoXGBoost ###
+###################
+
+import xgboost as xgb
+from mlforecast import MLForecast
+from mlforecast.auto import AutoLightGBM, AutoXGBoost, AutoMLForecast
+from mlforecast.target_transforms import Differences
+
+# PremierPet
+url = "C:/Users/HenriqueSchall/OneDrive - Neo Digital Industries/nPlan-Data-Science/nPlan Forecast/Arquivos/Dados/PremieRPet/Dados_Tratados_pet.xlsx"
+df = pd.read_excel(url, sheet_name="Faturamento_Historico")
+print(df)
+
+df = df.drop(columns=["Ano", "Mês_num", "Mês"])
+df.info()
+print(df)
+
+Produto = 4002
+series = df[df['Produto'] == Produto][['Datetime', 'Quantidade']].copy()
+series.set_index('Datetime', inplace=True)
+
+series = series.reset_index().rename(columns={
+    'Datetime': 'ds',
+    'Quantidade': 'y'
+})
+series['unique_id'] = Produto
+
+fcst = MLForecast(
+    models=AutoXGBoost(),
+    freq='D',  # ajuste para a frequência da série ('D' = diária)
+    lags=[24 * (i + 1) for i in range(7)],  # defasagens
+    target_transforms=[Differences([24])]  # transforma a série, se necessário
+)
+
+# Treinamento do modelo
+fcst.fit(series)
+
+# Exemplo de previsão para 48 passos à frente
+forecast = fcst.predict(48)
+
+print(forecast.head())
+
+#############################
+### RandomForestRegressor ###
+#############################
+
+from sklearn.ensemble import RandomForestRegressor
 
 
 
