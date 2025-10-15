@@ -4,7 +4,8 @@ Modelos de séries temporais
     ARIMA, GARCH, EGARCH, TGARCH – previsões de retornos ou volatilidade.
     VAR / SVAR / Bayesian VAR – analisar interações entre vários ativos ou variáveis macroeconômicas.
     Modelos de alta frequência (ex.: modelos de ponto de ocorrência) – para dados intradiários.
-
+https://tsfresh.readthedocs.io/en/latest/
+https://facebookresearch.github.io/Kats/
 
 > Uma série temporal é um conjunto de observações ordenadas em ordem cronológica no tempo ou um processo estocástico desconhecido. Matematicamente: Y = Tdt + Szt + et.
 
