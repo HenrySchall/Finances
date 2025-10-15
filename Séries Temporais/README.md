@@ -6,7 +6,7 @@ Modelos de séries temporais
     Modelos de alta frequência (ex.: modelos de ponto de ocorrência) – para dados intradiários.
 https://tsfresh.readthedocs.io/en/latest/
 https://facebookresearch.github.io/Kats/
-
+https://www.datacamp.com/pt/tutorial/tutorial-time-series-forecasting
 > Uma série temporal é um conjunto de observações ordenadas em ordem cronológica no tempo ou um processo estocástico desconhecido. Matematicamente: Y = Tdt + Szt + et.
 
 covariacia x corrrelação
